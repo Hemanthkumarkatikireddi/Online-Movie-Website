@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+}
+.background-image{
+    background-image: url("orange-color-bg.png");
+    width: 360px;
+    height: 650px;
+    margin-left: 300px;
+    border-right: solid 5px black;
+}
+.carousel {
+    width: 320px;
+    height: 200px;
+}
+.carousel-inner img{
+    width: 320px;
+    height: 200px;
+}
+.carousel-item{
+    width: 320px;
+    height: 200px;
+}
+.movie-carosel{
+    padding: 20px;
+}
+
+.moVie-name {
+    padding:10px 0px; 
+    width: 320px;
+}
+.moVie-name h2{
+    color: white;
+    font-size: 25px;
+    
+}
+.moVie-name button{
+    font-size: small;
+    border-radius: 5px;
+    width: 100px;
+    height: 35px;
+    margin-left:55px;
+    background-color:white ;
+    color: #ff8348;
+    border: 0px;
+}
+.movie-discription {
+    font-size: 13px;
+    color: white;
+    text-align: left;
+}
+h5{
+    color: white;
+    padding:10px 0px ;
+}
+.Similar-Movies img{
+    width: 100px;
+    height: 110px;
+    padding:0px 10px;
+}
